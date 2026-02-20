@@ -1,3 +1,4 @@
-// Версия 1
+// Версия 3
 
-Console.WriteLine ("Hello, world!");
+string name = Console.ReadLine ();
+
